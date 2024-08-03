@@ -299,8 +299,8 @@ ul {
   fill: #f4f4fd;
   
 }
-.third-section .social-list .team-list .social-link:hover,
-.third-section .social-list .team-list .social-link:focus {
+.third-section .social-ul .team-list .social-link:hover,
+.third-section .social-ul .team-list .social-link:focus {
   background-color: #404bbf;
 }
 /* ul>ul div */
